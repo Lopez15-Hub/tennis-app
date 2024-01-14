@@ -4,7 +4,7 @@
 
 ## Inicio rápido
 
-    1. Clona el proyecto:
+    1. Clona el proyecto: https://github.com/Lopez15-Hub/tennis-app
     2. Dentro del proyecto, abre una terminal y ejecuta el comando "flutter pub get" para obtener las dependencias.
     3. Abre un emulador y luego de eso ejecuta el comando "flutter run"
 
